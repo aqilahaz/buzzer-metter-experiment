@@ -1,0 +1,12 @@
+Create Virtual Environment and activate it
+
+
+py -m venv venv
+
+.\venv\Scripts\activate.bat
+
+
+-------------------------
+Anaconda 
+environment location 
+C:\Useers\LENOVO\anaconda33\envs\myenv
